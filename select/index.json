@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "レッツ・ゲット・イット・スターテッド",
+  "base_artist": "ブラック・アイド・ピーズ",
+  "createdAt": "2025-12-28T13:35:16.229608Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Let's Get It Started (Spike Mix)",
+      "artist": "Black Eyed Peas",
+      "has_synced": false,
+      "path": "select/pl_01_Let's_Get_It_Started_(Spike_Mix)_Black_Eyed_Peas.txt"
+    }
+  ]
+}
